@@ -4,7 +4,7 @@ from tkinter import ttk
 import calendar
 
 Ventana = Tk()
-Ventana.title("Unicio")
+Ventana.title("Inicio")
 Ventana.resizable(True, True)
 
 frame = Frame()
